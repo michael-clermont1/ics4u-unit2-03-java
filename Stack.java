@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.List;
 
 /**
- * The Bicycle Class.
+ * The Stack Class.
  *
  * @author  Michael Clermont
  * @version 1.0
